@@ -1,0 +1,14 @@
+{
+  "name": "se_course_module-1_lab-1_excersise_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-random-number-generator": "^1.3.0"
+  }
+}
