@@ -1,12 +1,6 @@
-// const random = require ("simple-random-number-generator");
-
 function rollTheDice(faces)  {
     let rand = Math.floor (Math.random() * faces);
     if (rand == 0) rand++;
-    // let params = {
-        //min: 1,
-        //max: faces
-    //};
     document.getElementById("rollResult").innerHTML = rand;
     return rand;
 }
