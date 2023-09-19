@@ -1,0 +1,19 @@
+Primar Actor: User
+Secondary Actor: N/A
+Description: User is required to click buttons to submit a request (roll dice) and get a return (number between 1-6 & 1-10).
+
+Basic Flow:
+
+1. User lands on landing page.
+2. User selects dice type (6 face / 10 face).
+3. User submits dice roll by clicking button.
+4. Results displayed on page.
+
+Alternate Flow.
+
+1. Not required.
+
+Testing Methods:
+
+1. Getting an actual result.
+2. If results are within specific paremeters, depending on dice type (6-face/10-face).
